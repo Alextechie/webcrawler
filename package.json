@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/Alextechie/webcrawler#readme",
   "dependencies": {
+    "jsdom": "^25.0.1"
+  },
+  "devDependencies": {
     "jest": "^29.7.0"
   }
 }
