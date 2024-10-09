@@ -1,0 +1,24 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "Building a web crawler",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alextechie/webcrawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alextechie/webcrawler/issues"
+  },
+  "homepage": "https://github.com/Alextechie/webcrawler#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
