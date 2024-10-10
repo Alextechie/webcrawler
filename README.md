@@ -7,4 +7,15 @@ of the website to be scrolled and others not to be scrolled.
 
 
 Clone the repo.
+
+
+
 Run npm intall
+
+
+
+Run npm start plus the url to crawl
+
+
+
+Run npm start o start the server.
